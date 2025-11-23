@@ -72,7 +72,7 @@
 </script>
 
 	<nav class="navbar navbar-expand-lg px-4">
-	    <a class="navbar-brand d-flex align-items-center" href="profile.jsp">
+	    <a class="navbar-brand d-flex align-items-center" href="About.jsp">
 	        <img src="LOGO/logo.png" alt="Owling Logo">
 	        
 	    </a>
@@ -96,7 +96,7 @@
                 <th>QUESTION 3</th>
                 <th>QUESTION 4</th>
                 <th>QUESTION 5</th>
-                <th>Actions</th>
+                <th>Action</th>
               </tr>
             </thead>
             <tbody>
