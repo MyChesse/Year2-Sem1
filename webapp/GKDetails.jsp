@@ -96,7 +96,7 @@
                 <th>QUESTION 3</th>
                 <th>QUESTION 4</th>
                 <th>QUESTION 5</th>
-                <th>Actions</th>
+                <th>Action</th>
               </tr>
             </thead>
             <tbody>
